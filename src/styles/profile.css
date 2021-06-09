@@ -1,0 +1,24 @@
+body {
+	background-color: #FBF9F8;
+	background-image: none;
+	margin: 0;
+	padding: 0;
+}
+.body {
+	width: 100vw;
+	height: 100vh;
+	font-family: roboto;
+	margin: 0;
+	padding: 0;
+}
+.leftSide {
+	text-transform: uppercase;
+	height: 100%;
+	background-color: #ffffff;
+}
+
+Link {
+	text-decoration: none;
+	display: block;
+}
+

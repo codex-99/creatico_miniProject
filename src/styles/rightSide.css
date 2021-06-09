@@ -1,0 +1,74 @@
+.rightside {
+	padding: 0;
+	height: 100%;
+	width: 83%;
+	float: right;
+	margin: 0;
+	font-family: Roboto;
+}
+
+.rightside #head {
+	font-size: 20px;
+	padding: 10px 20px 0;
+    color: #3E4458;
+}
+
+.profileInfo #pic {
+	width: 47%;
+	margin-right: 30px;
+	float: right;
+}
+
+.personalInfo {
+	padding-top: 180px;
+	padding-left: 100px;
+    color: #2A3148;
+}
+
+.personalInfo #name {
+    font-family: 'Tangerine', cursive;
+    font-weight: 700;
+	font-size: 80px;
+	padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.blocks{
+    margin: 30px 100px 0;
+}
+
+.blocks .block{
+    width: 180px;
+    height: 180px;
+    display: inline-block;
+    text-align: center;
+    border: 1px solid #838E94;
+    padding: 20px;
+    margin-right: 20px; 
+    border-radius: 15px;
+}
+
+.blocks .block h3{
+    font-size: 35px;
+    font-weight: normal;
+    padding: 0 0 5px;
+    margin-top: 10px;
+    margin-bottom: 0;
+    color: #2A3148;
+}
+
+.blocks .block #value{
+    font-size: 12px;
+    margin-bottom: 20px;
+    color: #838E94;
+}
+
+.blocks .block #valueBtn{
+    width: 120px;
+    margin: 30px auto 0;
+    cursor: pointer;
+    background-color: #1BAAA0;
+    padding: 10px;
+    color: #FBF9F8;
+    border-radius: 10px;
+}
